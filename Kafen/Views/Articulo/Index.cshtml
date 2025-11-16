@@ -1,0 +1,85 @@
+﻿@model IEnumerable<Kafen.Models.ArticuloViewModel>
+
+@{
+    Layout = "~/Views/Shared/_Layout_Vendedor.cshtml";
+}
+
+   <div id="content">
+
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid">
+
+                    <button type="button" id="sidebarCollapse" class="btn btn-info">
+                        <i class="fas fa-align-left"></i>
+                        <span>Menu</span>
+                    </button>
+                    <button class="btn btn-dark d-inline-block d-lg-none ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <i class="fas fa-align-justify"></i>
+                    </button>   
+                </div>
+            </nav>
+
+            <!--CONTENIDO-->
+          
+
+
+
+    
+                  
+
+
+<p>
+    <a asp-action="Crear">Crear Nuevo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+          
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+           <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Categoria)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+        
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.Precio)
+            </td>
+              <td>
+                @Html.DisplayFor(modelItem => item.Categoria)
+            </td>
+         
+            <td>
+                @Html.ActionLink("Editar", "Editar", new {  id=item.Id  }) |
+                @Html.ActionLink("Eliminar", "Eliminar", new {  id=item.Id  }) |
+                @Html.ActionLink("Detalle", "Detalle", new {  id=item.Id  })
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+
+                  </div>
+
+    <div class="overlay"></div>
+

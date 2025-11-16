@@ -1,0 +1,264 @@
+﻿@model Kafen.Models.Usuario
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Kafen</title>
+            <a class="navbar-brand" >
+            </a>
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500">
+        <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="assets/css/form-elements.css">
+        <link rel="stylesheet" href="assets/css/style.css">
+
+        
+        <link rel="shortcut icon" href="assets/ico/favicon.png">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png">
+
+    </head>
+
+    <body>
+
+        <!-- Content -->
+        <div class="top-content">
+        	
+            <div class="inner-bg">
+                <div class="container">
+                	
+                    <div class="row">
+                        <div class="col-sm-8 col-sm-offset-2 text">
+                        	
+                            <h1><strong>BIENVENIDO</strong> a Kafen</h1>
+                            <center><h2> 
+                                <img src="~/IMAGES/LOGO.png" alt="KAFEN" width = "200" height ="200">
+                               </h2></center>
+                            <div class="description">
+                               
+
+
+
+                            	<p>
+	                            	Bienvenido al sistema de entrega de alimentos de la escuela!
+                            	</p>
+                            </div>
+                               @if (ViewData["Registrado"] != null){
+                            
+                              <div class="alert alert-success" role="alert">
+                                            <center>@ViewData["Registrado"]</center>
+                             </div>  
+                               }
+
+                                   @if (ViewData["CambioContra"] != null){
+                            
+                              <div class="alert alert-success" role="alert">
+                                            <center>@ViewData["CambioContra"]</center>
+                             </div>  
+                               }
+                                  @if (ViewData["Enviado"] != null){
+                            
+                              <div class="alert alert-success" role="alert">
+                                            <center>@ViewData["Enviado"]</center>
+                             </div>  
+                               }
+
+                           @if(ViewData["NoEncontrado"] != null)
+                            {
+                               <div class = "alert alert-danger" role = "alert">
+                             @ViewData["NoEncontrado"]
+                                 </div>
+                                 }
+                           @if(ViewData["Tokenulo"] != null)
+                            {
+                               <div class = "alert alert-danger" role = "alert">
+                             @ViewData["Tokenulo"]
+                                 </div>
+                            }
+                           @if(ViewData["Menor"] != null)
+                            {
+                               <div class = "alert alert-danger" role = "alert">
+                             @ViewData["Menor"]
+                                 </div>
+                            }
+                             
+
+                              @if(ViewData["Duplicado"] != null)
+                            {
+                               <div class = "alert alert-danger" role = "alert">
+                             @ViewData["Duplicado"]
+                                 </div>
+                                 }
+                                   @if(ViewData["CorreoDuplicado"] != null)
+                            {
+                               <div class = "alert alert-danger" role = "alert">
+                             @ViewData["CorreoDuplicado"]
+                                 </div>
+                                 }
+                            <div class="top-big-link">
+                            	<a class="btn btn-link-1 launch-modal" href="#" data-modal-id="modal-login">Inicia Sesion</a>
+                            </div>
+                            <h4>O SI NO TIENES CUENTA....</h4>
+                             <div class="top-big-link">
+                            	<a class="btn btn-link-1 launch-modal" href="#" data-modal-id="modal-register">Registrate!</a>
+                            </div>
+                        </div>
+                    </div>
+                    
+             
+                    
+                </div>
+            </div>
+            
+        </div>
+        
+        <!-- LOGIN -->
+        <div class="modal fade" id="modal-login" tabindex="-1" role="dialog" aria-labelledby="modal-login-label" aria-hidden="true">
+        	<div class="modal-dialog">
+        		<div class="modal-content">
+        			
+        			<div class="modal-header">
+        				<button type="button" class="close" data-dismiss="modal">
+        					<span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
+        				</button>
+        				<h3 class="modal-title" id="modal-login-label">Inicia Sesion</h3>
+        				<p>Ingresa tu id y contraseña</p>
+        			</div>
+        			
+        			<div class="modal-body">
+        				
+	                    <form action ="@Url.Action("Login", "Home")" role="form" action="" method="post" class="login-form">
+	                    	<div class="form-group">
+	                    		<label class="sr-only" for="Id">Id</label>
+	                        	 <input type="text" name = "Id" id="Id" class="form-control" placeholder="Id" required autofocus>
+	                        </div>
+	                        <div class="form-group">
+	                        	<label class="sr-only" for="Contraseña">Contraseña</label>
+	                        	  <input type="password" name = "Contraseña" id="Contraseña" class="form-control" placeholder="Contraseña" required>
+	                        </div>
+                           
+
+
+
+	                        <button type="submit" class="btn">Inicia sesion!</button>
+	                    </form>
+	                        <a href="@Url.Action("EmpezarRecuperar", "Home")" class="olvido-contraseña">
+                Olvido la contraseña?, recuperela aqui!!
+            </a>
+            <hr />
+             <a href="@Url.Action("Index", "Home")" class="registro">
+                No tiene cuenta?, cree una aqui!!
+            </a>
+
+
+        			</div>
+        			
+        		</div>
+        	</div>
+        </div>
+           <!-- REGISTRO -->
+               <div class="modal fade" id="modal-register" tabindex="-1" role="dialog" aria-labelledby="modal-register-label" aria-hidden="true">
+        	<div class="modal-dialog">
+        		<div class="modal-content">
+        			
+        			<div class="modal-header">
+        				<button type="button" class="close" data-dismiss="modal">
+        					<span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
+        				</button>
+        				<h3 class="modal-title" id="modal-register-label">Registrate</h3>
+        				<p>Ingresa tus datos</p>
+        			</div>
+        			
+        			<div class="modal-body">
+        				
+	                    <form  action = "@Url.Action("Registro", "Home")"  role="form" action="" method="post" class="login-form">
+	                    	<div class="form-group">
+                                @Html.ValidationMessageFor(d=>d.Id, null, new{style = "color:red;"})
+
+	                    		<label class="sr-only" for="form-id">Id</label>
+	                        	<input type="text" name="Id" placeholder="Id..." class="form-Id form-control" id="Id">
+	                        </div>
+	                        <div class="form-group">
+                             @Html.ValidationMessageFor(d=>d.Contraseña, null, new{style = "color:red;"})
+	                        	<label class="sr-only" for="form-password">Password</label>
+  	                        	<input type="password" name="Contraseña" placeholder="Contraseña..." class="form-password form-control" id="Contraseña" maxlength = "12"/>
+	                        </div>
+                             <div class="form-group">
+                                @Html.ValidationMessageFor(d=>d.Nombre, null, new{style = "color:red;"})
+	                        	<label class="sr-only" for="form-Nombre">Nombre</label>
+	                        	<input type="text" name="Nombre" placeholder="Nombre..." class="form-Nombre form-control" id="Nombre" maxlength = "20">
+	                        </div>
+                             <div class="form-group">
+	                       @Html.ValidationMessageFor(d=>d.Apellido_Paterno, null, new{style = "color:red;"})
+
+                                 <label class="sr-only" for="form-ApellidoPaterno">Apellido Paterno</label>
+	                        	<input type="text" name="Apellido_Paterno" placeholder="Apellido Paterno..." class="form-ApellidoPaterno form-control" id="Apellido_Paterno" maxlength = "30">
+	                        </div>
+                             <div class="form-group">
+
+                              @Html.ValidationMessageFor(d=>d.Apellido_Materno, null, new{style = "color:red;"})
+
+	                        	<label class="sr-only" for="form-ApellidoMaterno">Apellido Materno</label>
+	                        	<input type="text" name="Apellido_Materno" placeholder="Apellido Materno..." class="form-ApellidoMaterno form-control" id="Apellido_Materno" maxlength = "30">
+	                        </div>
+                            <h4><strong>Dia de Nacimiento</strong></h4>
+                             <div class="form-group">
+                        	@Html.ValidationMessageFor(d=>d.Fecha_Nacimiento, null, new{style = "color:red;"})
+
+	                        	<label class="sr-only" for="form-password">Dia de Nacimiento</label>
+	                        	<input type="date" name="Fecha_Nacimiento" placeholder="Dia de Nacimiento..." class="form-Nac form-control" id="Fecha_Nacimiento">
+	                        </div>
+                             <div class="form-group">
+                            @Html.ValidationMessageFor(d=>d.Correo_Electronico, null, new{style = "color:red;"})
+
+	                        	<label class="sr-only" for="form-Correo">Correo</label>
+	                        	<input type="email" name="Correo_Electronico" placeholder="Correo..." class="form-correo form-control" id="Correo_Electronico" maxlength = "100">
+	                        </div>
+
+
+
+
+	                        <button type="submit" class="btn">Registrate!</button>
+
+
+
+	                    </form>
+
+
+                         <a href="@Url.Action("Index", "Home")" class="registro">
+                             Ya tiene cuenta?, inicie sesion aqui!!
+                             </a>
+                             <hr />
+                           <a href="@Url.Action("Index", "Vendedor")" class="registro">
+                            No es cliente?, registrese aqui!!
+                             </a>
+
+
+	                    
+        			</div>
+        			
+        		</div>
+        	</div>
+        </div>
+        @RenderBody()
+        <!-- Javascript -->
+        <script src="assets/js/jquery-1.11.1.min.js"></script>
+        <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+        <script src="assets/js/jquery.backstretch.min.js"></script>
+        <script src="assets/js/scripts.js"></script>
+        
+        <!--[if lt IE 10]>
+            <script src="assets/js/placeholder.js"></script>
+        <![endif]-->
+
+    </body>
+
+</html>

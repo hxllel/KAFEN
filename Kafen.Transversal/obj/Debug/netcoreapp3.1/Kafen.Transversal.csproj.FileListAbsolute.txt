@@ -1,0 +1,60 @@
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Transversal\bin\Debug\netcoreapp3.1\Kafen.Transversal.deps.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Transversal\bin\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Transversal\bin\Debug\netcoreapp3.1\Kafen.Transversal.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.AssemblyInfo.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.pdb
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Transversal\bin\Debug\netcoreapp3.1\Kafen.Transversal.deps.json
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Transversal\bin\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Transversal\bin\Debug\netcoreapp3.1\Kafen.Transversal.pdb
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.csproj.AssemblyReference.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.AssemblyInfoInputs.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.AssemblyInfo.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.csproj.CoreCompileInputs.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Transversal\bin\Debug\netcoreapp3.1\Kafen.Transversal.deps.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Transversal\bin\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Transversal\bin\Debug\netcoreapp3.1\Kafen.Transversal.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.AssemblyInfo.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Transversal\bin\Debug\netcoreapp3.1\Kafen.Transversal.deps.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Transversal\bin\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Transversal\bin\Debug\netcoreapp3.1\Kafen.Transversal.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.AssemblyInfo.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.pdb
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Transversal\bin\Debug\netcoreapp3.1\Kafen.Transversal.deps.json
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Transversal\bin\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Transversal\bin\Debug\netcoreapp3.1\Kafen.Transversal.pdb
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.AssemblyInfo.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Transversal\bin\Debug\netcoreapp3.1\Kafen.Transversal.deps.json
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Transversal\bin\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Transversal\bin\Debug\netcoreapp3.1\Kafen.Transversal.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.AssemblyInfo.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Transversal\obj\Debug\netcoreapp3.1\Kafen.Transversal.pdb

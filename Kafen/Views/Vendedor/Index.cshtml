@@ -1,0 +1,103 @@
+﻿@model Kafen.Models.Usuario
+@{
+    Layout = null;
+}
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<link href="~/css/EmpezarRecuperar.css" rel = "stylesheet" />
+<link href="~/js/EmpezarRecuperar.js" />
+
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.13.1/jquery.validate.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+
+	
+<div class="text-center" style="padding:50px 0">
+	<div class="logo">Registro para vendedores</div>
+	<!-- Main Form -->
+	<div class="login-form-1">
+	  <form  action = "@Url.Action("Registro", "Vendedor")" method = "post" id="register-form" class="text-left">
+			<div class="login-form-main-message"></div>
+			<div class="main-login-form">
+				<div class="login-group">
+				<div class="form-group">
+	                    		<label class="sr-only" for="form-id">Id</label>
+											@Html.ValidationMessageFor(d=>d.Id, null, new{style = "color:red;"})
+
+	                        	<input type="text" name="Id" placeholder="Id..." class="form-Id form-control" id="Id">
+	                        </div>
+	                        <div class="form-group">
+											@Html.ValidationMessageFor(d=>d.Contraseña, null, new{style = "color:red;"})
+	                        	<label class="sr-only" for="form-password">Password</label>
+	                        	<input type="password" name="Contraseña" placeholder="Contraseña..." class="form-password form-control" id="Contraseña" maxlength = "12"/>
+	                        </div>
+                             <div class="form-group">
+								 	@Html.ValidationMessageFor(d=>d.Nombre, null, new{style = "color:red;"})
+
+	                        	<label class="sr-only" for="form-Nombre">Nombre</label>
+	                        	<input type="text" name="Nombre" placeholder="Nombre..." class="form-Nombre form-control" id="Nombre" maxlength = "20">
+	                        </div>
+                             <div class="form-group">
+								 	@Html.ValidationMessageFor(d=>d.Apellido_Paterno, null, new{style = "color:red;"})
+
+	                        	<label class="sr-only" for="form-ApellidoPaterno">Apellido Paterno</label>
+	                        	<input type="text" name="Apellido_Paterno" placeholder="Apellido Paterno..." class="form-ApellidoPaterno form-control" id="Apellido_Paterno" maxlength = "30">
+	                        </div>
+                             <div class="form-group">
+								 	@Html.ValidationMessageFor(d=>d.Apellido_Materno, null, new{style = "color:red;"})
+
+	                        	<label class="sr-only" for="form-ApellidoMaterno">Apellido Materno</label>
+	                        	<input type="text" name="Apellido_Materno" placeholder="Apellido Materno..." class="form-ApellidoMaterno form-control" id="Apellido_Materno" maxlength = "30">
+	                        </div>
+                            <h4><strong>Dia de Nacimiento</strong></h4>
+                             <div class="form-group">
+								 @Html.ValidationMessageFor(d=>d.Fecha_Nacimiento, null, new{style = "color:red;"})
+
+	                        	<label class="sr-only" for="form-password">Dia de Nacimiento</label>
+	                        	<input type="date" name="Fecha_Nacimiento" placeholder="Dia de Nacimiento..." class="form-Nac form-control" id="Fecha_Nacimiento">
+	                        </div>
+                             <div class="form-group">
+								 @Html.ValidationMessageFor(d=>d.Correo_Electronico, null, new{style = "color:red;"})
+
+	                        	<label class="sr-only" for="form-Correo">Correo</label>
+	                        	<input type="email" name="Correo_Electronico" placeholder="Correo..." class="form-correo form-control" id="Correo_Electronico" maxlength = "100">
+	                        </div>
+
+							  @if(ViewData["Id"] != null)
+                            {
+                               <div class = "alert alert-danger" role = "alert">
+                             @ViewData["Id"]
+                                 </div>
+                                 }
+                                   @if(ViewData["Correo"] != null)
+                            {
+                               <div class = "alert alert-danger" role = "alert">
+                             @ViewData["Correo"]
+                                 </div>
+                             }
+							 @if(ViewData["Menor"] != null)
+                            {
+                               <div class = "alert alert-danger" role = "alert">
+                             @ViewData["Menor"]
+                                 </div>
+                             }
+
+				</div>
+				<button type="submit" class="login-button"><i class="fa fa-chevron-right"></i></button>
+			</div>
+			  <a href="@Url.Action("Index", "Home")" class="registro">
+                             Ya tiene cuenta?, inicie sesion aqui!!
+             </a>
+			   <li>
+      <a href="@Url.Action("Index","Home")" class="registro"><i class="fas fa-sign-out-alt"></i>Regresar</a>
+			</li>
+		</form>
+			</div>
+              
+		
+		</div>
+

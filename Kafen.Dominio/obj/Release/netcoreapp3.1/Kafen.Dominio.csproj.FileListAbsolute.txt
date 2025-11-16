@@ -1,0 +1,50 @@
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Dominio\bin\Release\netcoreapp3.1\Kafen.Dominio.deps.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Dominio\bin\Release\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Dominio\bin\Release\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.AssemblyInfo.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Dominio\bin\Release\netcoreapp3.1\Kafen.Dominio.deps.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Dominio\bin\Release\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Dominio\bin\Release\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.AssemblyInfo.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\SALA\Desktop\Kafen_30_preliminar3\Kafen.Dominio\bin\Release\netcoreapp3.1\Kafen.Dominio.deps.json
+C:\Users\SALA\Desktop\Kafen_30_preliminar3\Kafen.Dominio\bin\Release\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar3\Kafen.Dominio\bin\Release\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\SALA\Desktop\Kafen_30_preliminar3\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.csproj.AssemblyReference.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar3\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SALA\Desktop\Kafen_30_preliminar3\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.AssemblyInfoInputs.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar3\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.AssemblyInfo.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar3\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar3\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar3\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Dominio\bin\Release\netcoreapp3.1\Kafen.Dominio.deps.json
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Dominio\bin\Release\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Dominio\bin\Release\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.AssemblyInfo.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Dominio\bin\Release\netcoreapp3.1\Kafen.Dominio.deps.json
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Dominio\bin\Release\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Dominio\bin\Release\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.AssemblyInfo.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Dominio\obj\Release\netcoreapp3.1\Kafen.Dominio.pdb

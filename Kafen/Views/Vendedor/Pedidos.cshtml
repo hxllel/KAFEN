@@ -1,0 +1,118 @@
+﻿@using Microsoft.AspNetCore.Routing
+@model IEnumerable<Kafen.Models.PedidosViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout_Vendedor.cshtml";
+}
+
+
+
+ <div id="content">
+
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid">
+
+                    <button type="button" id="sidebarCollapse" class="btn btn-info">
+                        <i class="fas fa-align-left"></i>
+                        <span>Menu</span>
+                    </button>
+                    <button class="btn btn-dark d-inline-block d-lg-none ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <i class="fas fa-align-justify"></i>
+                    </button>   
+                </div>
+            </nav>
+
+
+                        @if(ViewData["tope"] != null)
+                            {
+                               <div id = "tope" class = "alert alert-danger" role = "alert">
+                             @ViewData["tope"]
+                                 </div>
+                             }
+
+                             
+                       @if (ViewData["si"] != null){
+                            
+                         <div id="si" class="alert alert-success" role="alert" >
+                                          <top> <right>@ViewData["si"]</right></top> 
+                       </div>  
+              }
+
+
+                    <table class="table">
+    <thead>
+        <tr>
+          
+            <th>
+                @Html.DisplayNameFor(model => model.id)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model => model.Cliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Total)
+            </th>
+           <th>
+                @Html.DisplayNameFor(model => model.Estatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+        
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Total)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.Estatus)
+            </td>
+              <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+         
+            <td>
+
+               
+               <a href="@Url.Action("DetalleVenta", "Vendedor",  new RouteValueDictionary(new {  id=item.id   }))" class="article">Detalles</a>
+           
+                
+
+            </td>
+            <td>
+
+            <a href="@Url.Action("CambiarEstatus", "Vendedor",  new RouteValueDictionary(new {  id=item.id   }))" class="article">Cambiar Estatus</a>
+
+            </td>
+
+            <td>
+            
+
+            </td>
+        </tr>
+        
+}
+    </tbody>
+</table>
+
+
+     </div>
+
+    <div class="overlay"></div>
+
+    <script>
+            setTimeout(function() { $('#tope').fadeOut('fast'); }, 5000);// <-- time in milliseconds
+            setTimeout(function() { $('#si').fadeOut('fast'); }, 5000);// <-- time in milliseconds
+
+    </script>
+
+   

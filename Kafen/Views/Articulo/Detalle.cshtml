@@ -1,0 +1,61 @@
+﻿@model Kafen.Models.ArticuloViewModel
+@{
+    Layout = "~/Views/Shared/_Layout_Vendedor.cshtml";
+}
+
+
+    <div id="content">
+
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid">
+
+                    <button type="button" id="sidebarCollapse" class="btn btn-info">
+                        <i class="fas fa-align-left"></i>
+                        <span>Menu</span>
+                    </button>
+                    <button class="btn btn-dark d-inline-block d-lg-none ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <i class="fas fa-align-justify"></i>
+                    </button>   
+                </div>
+            </nav>
+
+            <!--CONTENIDO-->
+
+<div>
+    <h4>Detalle de Producto</h4>
+    <hr />
+    <div class="row">
+        <div class = "form-group">
+            <label asp-for = "Nombre"> </label>
+            <input asp-for = "Nombre"class = "form-control"  />
+        </div>
+         <div class = "form-group">
+            <label asp-for = "Descripcion"> </label>
+            <input asp-for = "Descripcion"class = "form-control"  />
+        </div>
+
+        
+         <div class = "form-group">
+            <label asp-for = "Precio"> </label>
+            <input asp-for = "Precio"class = "form-control"  />
+        </div>
+
+         <div class = "form-group">
+            <label asp-for = "Categoria"> </label>
+            <input asp-for = "Categoria"class = "form-control"  />
+        </div>
+       
+    </div>
+</div>
+<div>
+    <a asp-action="Index">Volver a la Lista</a>
+</div>
+
+
+
+
+                          
+               
+</div>
+
+    <div class="overlay"></div>

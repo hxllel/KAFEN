@@ -1,0 +1,131 @@
+﻿@using Microsoft.AspNetCore.Routing
+@model IEnumerable<Kafen.Models.DetalleVentaViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout_Cliente.cshtml";
+}
+
+
+
+     <div id="content">
+            <button type="button" id="sidebarCollapse" class="navbar-btn">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+
+
+            <h1>DETALLE DE LA COMPRA</h1>
+
+ <div class="col-md-4">
+                    <div class="card bg-light">
+                        <div class="card-body">
+                            <div class="row">
+
+                                <div class="col-12">
+                                    <div class="order-info">
+                                        <div class="d-flex justify-content-between align-items-center"><span>Detalle del Pedido</span></div>
+                                        <form  name = op>
+
+                                
+                                    
+                                     <label>Total: $</label><input type = "number" name = "totalproductos" id="totalapagar" step = ".001" disabled /><br />
+                                       <br />
+                                       <label>Cantidad de productos:</label><input type = "number" name = "total" id="total" step = ".001" disabled />
+                                       <br />
+
+                                 </form>
+                            
+                                    
+                               </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+             </div>
+
+
+
+
+            <table class="table" id = "Productos">
+    <thead>
+        <tr>
+          
+            <th>
+                @Html.DisplayNameFor(model => model.Producto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cantidad)
+            </th>
+           <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+        
+            <td>
+                @Html.DisplayFor(modelItem => item.Producto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantidad)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.Precio)
+            </td>
+                    
+            <td>
+            
+             
+              <a href="@Url.Action("AgregarProducto2", "Cliente",  new RouteValueDictionary(new {  id=item.IdPedido   }))" class="article">Agregar al Carrito</a>
+             
+
+
+
+
+             
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+
+</div>
+
+<script>
+
+     var filas=document.querySelectorAll("#Productos tbody tr");
+      var total=0;
+                      
+        var cantidad = 0;
+         var productos = 0;
+                        
+                      filas.forEach(function(e) {
+ 
+                      var columnas=e.querySelectorAll("td");
+                 
+
+                   var importe=parseInt(columnas[1].textContent);
+                   var cantidad=parseInt(columnas[2].textContent);
+     
+                  //  columnas[4].textContent = (importe*cantidad).toFixed(2); 
+                                 
+
+                  total+=cantidad;
+                  
+                  productos +=importe
+                 
+                  
+                 });
+                 
+
+                  document.getElementById("totalapagar").value =total;
+               
+                   document.getElementById("total").value = productos;
+
+</script>

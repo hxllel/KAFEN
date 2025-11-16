@@ -1,0 +1,65 @@
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Datos.deps.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Datos.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Datos.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.AssemblyInfo.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.csproj.CopyComplete
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.pdb
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Datos.deps.json
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Datos.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Datos.pdb
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.csproj.AssemblyReference.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.AssemblyInfoInputs.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.AssemblyInfo.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.csproj.CoreCompileInputs.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.csproj.CopyComplete
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Datos.deps.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Datos.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Datos.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.AssemblyInfo.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.csproj.CopyComplete
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.pdb
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Datos.deps.json
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Datos.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Datos.pdb
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.AssemblyInfo.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.csproj.CopyComplete
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Datos.deps.json
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Datos.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Datos.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Datos\bin\Debug\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.AssemblyInfo.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.csproj.CopyComplete
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen.Datos\obj\Debug\netcoreapp3.1\Kafen.Datos.pdb

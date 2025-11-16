@@ -1,0 +1,1232 @@
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Kafen.exe
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Kafen.deps.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Kafen.runtimeconfig.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Kafen.runtimeconfig.dev.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Kafen.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Kafen.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Kafen.Views.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Kafen.Views.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Kafen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Kafen.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Kafen.AssemblyInfo.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Kafen.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorAssemblyInfo.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorAssemblyInfo.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\staticwebassets\Kafen.StaticWebAssets.Manifest.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Kafen.TagHelpers.input.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Kafen.TagHelpers.output.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorCoreGenerate.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorTargetAssemblyInfo.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorTargetAssemblyInfo.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Kafen.Views.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.CopyComplete
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Kafen.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Kafen.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Kafen.genruntimeconfig.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Crear.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Detalle.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Editar.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Eliminar.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Carrito\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Carrito.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\DetalleDeVenta.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Historial.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\PedidosEnCurso.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Tienda.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmpezarRecuperar.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Recuperar.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Cliente.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Vendedor.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\DetalleVenta.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Estadisticas.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Pedidos.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Kafen.Datos.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Kafen.Datos.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\bin\Debug\netcoreapp3.1\Kafen.Transversal.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\VendedorInicio.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.exe
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.deps.json
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.runtimeconfig.json
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.runtimeconfig.dev.json
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Views.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Views.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Datos.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Datos.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Transversal.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.AssemblyInfo.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorAssemblyInfo.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorAssemblyInfo.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\staticwebassets\Kafen.StaticWebAssets.Manifest.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.TagHelpers.input.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.TagHelpers.output.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorCoreGenerate.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Crear.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Detalle.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Editar.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Eliminar.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Carrito\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Carrito.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\DetalleDeVenta.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Historial.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\PedidosEnCurso.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Tienda.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmpezarRecuperar.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Recuperar.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Cliente.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Vendedor.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\DetalleVenta.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Estadisticas.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Pedidos.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\VendedorInicio.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorTargetAssemblyInfo.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorTargetAssemblyInfo.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.Views.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.CopyComplete
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.genruntimeconfig.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.exe
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.deps.json
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.runtimeconfig.json
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.runtimeconfig.dev.json
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.pdb
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Views.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Views.pdb
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Datos.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Datos.pdb
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Transversal.pdb
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.AssemblyReference.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.AssemblyInfoInputs.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.AssemblyInfo.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.CoreCompileInputs.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorAssemblyInfo.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorAssemblyInfo.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\staticwebassets\Kafen.StaticWebAssets.Manifest.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.TagHelpers.input.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.TagHelpers.output.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorCoreGenerate.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Crear.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Detalle.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Editar.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Eliminar.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Index.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Carrito\Index.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Carrito.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\DetalleDeVenta.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Historial.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\PedidosEnCurso.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Tienda.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmpezarRecuperar.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Recuperar.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Cliente.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Vendedor.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\DetalleVenta.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Estadisticas.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Index.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Pedidos.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\VendedorInicio.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorTargetAssemblyInfo.cache
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorTargetAssemblyInfo.cs
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.Views.pdb
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.CopyComplete
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.dll
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.pdb
+C:\Users\SALA\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.genruntimeconfig.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.exe
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.deps.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.runtimeconfig.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.runtimeconfig.dev.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Views.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Views.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Datos.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Datos.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\bin\Debug\netcoreapp3.1\Kafen.Transversal.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.AssemblyInfo.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorAssemblyInfo.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorAssemblyInfo.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\staticwebassets\Kafen.StaticWebAssets.Manifest.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.TagHelpers.input.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.TagHelpers.output.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorCoreGenerate.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Crear.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Detalle.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Editar.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Eliminar.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Carrito\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Carrito.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\DetalleDeVenta.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Historial.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\PedidosEnCurso.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Tienda.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmpezarRecuperar.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Recuperar.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Cliente.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Vendedor.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\DetalleVenta.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Estadisticas.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Pedidos.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\VendedorInicio.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorTargetAssemblyInfo.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorTargetAssemblyInfo.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.Views.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.CopyComplete
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar2\Kafen\obj\Debug\netcoreapp3.1\Kafen.genruntimeconfig.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Kafen.exe
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Kafen.deps.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Kafen.runtimeconfig.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Kafen.runtimeconfig.dev.json
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Kafen.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Kafen.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Kafen.Views.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Kafen.Views.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Kafen.Datos.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Kafen.Datos.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\bin\Debug\netcoreapp3.1\Kafen.Transversal.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Kafen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Kafen.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Kafen.AssemblyInfo.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Kafen.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorAssemblyInfo.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorAssemblyInfo.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\staticwebassets\Kafen.StaticWebAssets.Manifest.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Kafen.TagHelpers.input.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Kafen.TagHelpers.output.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorCoreGenerate.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Crear.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Detalle.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Editar.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Eliminar.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Carrito\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Carrito.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\DetalleDeVenta.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Historial.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\PedidosEnCurso.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Tienda.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmpezarRecuperar.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Recuperar.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Cliente.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Vendedor.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\DetalleVenta.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Estadisticas.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Pedidos.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\VendedorInicio.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorTargetAssemblyInfo.cache
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorTargetAssemblyInfo.cs
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Kafen.Views.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.CopyComplete
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Kafen.dll
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Kafen.pdb
+C:\Users\itaak\Desktop\Kafen_30_preliminar3\Kafen\obj\Debug\netcoreapp3.1\Kafen.genruntimeconfig.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Kafen.exe
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Kafen.deps.json
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Kafen.runtimeconfig.json
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Kafen.runtimeconfig.dev.json
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Kafen.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Kafen.pdb
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Kafen.Views.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Kafen.Views.pdb
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Kafen.Datos.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Kafen.Datos.pdb
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\bin\Debug\netcoreapp3.1\Kafen.Transversal.pdb
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Kafen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Kafen.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Kafen.AssemblyInfo.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Kafen.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorAssemblyInfo.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorAssemblyInfo.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\staticwebassets\Kafen.StaticWebAssets.Manifest.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Kafen.TagHelpers.input.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Kafen.TagHelpers.output.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorCoreGenerate.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Crear.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Detalle.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Editar.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Eliminar.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Carrito\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Carrito.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\DetalleDeVenta.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Historial.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\PedidosEnCurso.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Tienda.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmpezarRecuperar.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Recuperar.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Cliente.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Vendedor.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\DetalleVenta.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Estadisticas.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Pedidos.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\VendedorInicio.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorTargetAssemblyInfo.cache
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorTargetAssemblyInfo.cs
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Kafen.Views.pdb
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.CopyComplete
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Kafen.dll
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Kafen.pdb
+C:\Users\itaak\Desktop\PROYECTO\no se la neta\Kafen\obj\Debug\netcoreapp3.1\Kafen.genruntimeconfig.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Kafen.exe
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Kafen.deps.json
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Kafen.runtimeconfig.json
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Kafen.runtimeconfig.dev.json
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Kafen.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Kafen.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Kafen.Views.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Kafen.Views.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Kafen.Datos.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Kafen.Dominio.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Kafen.Transversal.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Kafen.Datos.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Kafen.Dominio.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\bin\Debug\netcoreapp3.1\Kafen.Transversal.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.AssemblyReference.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Kafen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Kafen.AssemblyInfoInputs.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Kafen.AssemblyInfo.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.CoreCompileInputs.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Kafen.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorAssemblyInfo.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorAssemblyInfo.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\staticwebassets\Kafen.StaticWebAssets.Manifest.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Kafen.TagHelpers.input.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Kafen.TagHelpers.output.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorCoreGenerate.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Crear.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Detalle.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Editar.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Eliminar.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Articulo\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Carrito\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Carrito.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\DetalleDeVenta.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Historial.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\PedidosEnCurso.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Tienda.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmpezarRecuperar.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Recuperar.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Cliente.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_Vendedor.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\DetalleVenta.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Estadisticas.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Index.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Pedidos.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\VendedorInicio.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorTargetAssemblyInfo.cache
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Kafen.RazorTargetAssemblyInfo.cs
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Kafen.Views.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Kafen.csproj.CopyComplete
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Kafen.dll
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Kafen.pdb
+C:\Users\itaak\Desktop\PROYECTO\Kafen\Kafen\obj\Debug\netcoreapp3.1\Kafen.genruntimeconfig.cache

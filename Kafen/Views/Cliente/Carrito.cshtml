@@ -1,0 +1,195 @@
+﻿@using Microsoft.AspNetCore.Routing
+@model IEnumerable<Kafen.Models.CarritoVista>
+
+@{
+    Layout = "~/Views/Shared/_Layout_Cliente.cshtml";
+}
+
+
+
+     <div id="content">
+            <button type="button" id="sidebarCollapse" class="navbar-btn">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+
+  
+               <table class="table", id = "Productos">
+    <thead>
+        <tr>
+          
+            <th>
+                @Html.DisplayNameFor(model => model.Producto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+           <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+            <th>
+             @Html.DisplayNameFor(model => model.Cantidad)
+
+            </th>
+            <th>
+                <p>Subtotal</p>
+            </th>
+            <th>
+                <p>Acciones</p>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+        
+            <td>
+                @Html.DisplayFor(modelItem => item.Producto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+             <td>
+              @Html.DisplayFor(modelItem => item.Precio, new {htmlAttributes = new{ @id = "precio" , @type = "number", @class = "precio"}}) 
+            </td>
+             <td>
+             @Html.DisplayFor(modelItem => item.Cantidad)
+            
+            </td>
+            
+         
+            <td>
+                
+
+            </td>
+
+            <td>
+             <a href="@Url.Action("AgregarCantidad", "Cliente",  new RouteValueDictionary(new {  id=item.Id   }))" class="article">+</a>
+
+
+            <a href="@Url.Action("QuitarCantidad", "Cliente",  new RouteValueDictionary(new {  id=item.Id   }))" class="article">-</a>
+
+
+            </td>
+
+
+            <td>
+                @Html.ActionLink("Eliminar", "EliminarArticulo", new {  id=item.Id  }) 
+               
+
+              
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+        <div class="col-md-4">
+                    <div class="card bg-light">
+                        <div class="card-body">
+                            <div class="row">
+
+                                <div class="col-12">
+                                    <div class="order-info">
+                                        <div class="d-flex justify-content-between align-items-center"><span>Detalle del Pedido</span></div>
+                                        <form action = "@Url.Action("AgregarPedido", "Cliente")" name = op>
+
+                                
+                                    
+                                     <label>Total a pagar: $</label><input type = "number" name = "totalproductos" id="totalapagar" step = ".001" disabled /><br />
+                                       <br />
+                                       <label>Cantidad de productos:</label><input type = "number" name = "total" id="total" step = ".001" disabled />
+                                       <br />
+                                       <button   type = "submit" class="btn btn-primary btn-block mt-3" id="ProcesarPedido">Pedir</button>
+
+
+                                
+                                        </form>
+                            
+                                    
+                               </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+             </div>
+
+
+</div>
+
+        <script>
+             
+     var filas=document.querySelectorAll("#Productos tbody tr");
+      var total=0;
+                      
+        var cantidad = 0;
+         var productos = 0;
+                        
+                      filas.forEach(function(e) {
+ 
+                      var columnas=e.querySelectorAll("td");
+                 
+
+                   var importe=parseInt(columnas[2].textContent);
+                   var cantidad=parseInt(columnas[3].textContent);
+     
+                    columnas[4].textContent = (importe*cantidad).toFixed(2); 
+                                 
+
+                  total+=(cantidad*importe);
+                  
+                  productos +=cantidad
+                 
+                  
+                 });
+                 
+
+                  document.getElementById("totalapagar").value =total;
+               
+                   document.getElementById("total").value = productos;
+
+                 
+                              
+
+     </script>
+
+   
+
+     
+
+
+
+
+
+
+
+
+                 <script>
+                     /*
+                var sumapreliminar = document.getElementsByClassName("cantidad").length;
+                      document.getElementById("total").value = sumapreliminar;
+                      sumapreliminar = 0;
+
+                  function cal(){
+                      
+                      var suma =0;
+                      
+
+                    $('.cantidad').each(function(){
+                        
+                    suma += parseFloat($(this).val());
+                        });
+
+          
+                            document.getElementById("total").value = suma;
+                                     
+                  }*/
+                  
+              </script>
+               
+            
+
+           
+
+     

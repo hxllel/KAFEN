@@ -1,0 +1,119 @@
+﻿@using Microsoft.AspNetCore.Routing
+@model IEnumerable<Kafen.Models.ArticuloViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout_Cliente.cshtml";
+}
+
+
+        <div id="content">
+            <button type="button" id="sidebarCollapse" class="navbar-btn">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+
+     
+             @if (ViewData["agregado"] != null){
+                            
+                         <div id="Agregado" class="alert alert-success" role="alert" >
+                                          <top> <right>@ViewData["agregado"]</right></top> 
+                       </div>  
+              }
+
+              @if (ViewData["Pedido"] != null){
+                            
+                         <div id="Pedido" class="alert alert-success" role="alert" >
+                                          <top> <right>@ViewData["Pedido"]</right></top> 
+                       </div>  
+               }
+               @if (ViewData["noagregado"] != null){
+                            
+                         <div id="NoAgregado" class="alert alert-danger" role="alert" >
+                                          <top> <right>@ViewData["noagregado"]</right></top> 
+                       </div>  
+                 }
+           @if (ViewData["Carrito"] != null){
+                            
+                         <div id="Carrito" class="alert alert-danger" role="alert" >
+                                          <top> <right>@ViewData["Carrito"]</right></top> 
+                       </div>  
+                 }
+
+
+<table class="table">
+    <thead>
+        <tr>
+          
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+           <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Categoria)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+        
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.Precio)
+            </td>
+              <td>
+                @Html.DisplayFor(modelItem => item.Categoria)
+            </td>
+         
+            <td>
+
+               
+               <a href="@Url.Action("AgregarAlCarrito", "Cliente",  new RouteValueDictionary(new {  id=item.Id   }))" class="article">Agregar al carrito</a>
+                
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+
+    </div>
+   
+    <script>
+    setTimeout(function() { $('#Agregado').fadeOut('fast'); }, 5000); 
+    setTimeout(function() { $('#NoAgregado').fadeOut('fast'); }, 5000);
+    setTimeout(function() { $('#Pedido').fadeOut('fast'); }, 5000);
+    setTimeout(function() { $('#Carrito').fadeOut('fast'); }, 5000);
+
+
+    </script>
+
+     
+
+    <script>
+
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+    
