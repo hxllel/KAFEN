@@ -1,4 +1,4 @@
-﻿using Kafen.Datos;
+using Kafen.Datos;
 using Kafen.Datos.Repositorios;
 using Kafen.Models;
 using Kafen.Transversal;
@@ -44,7 +44,7 @@ namespace Kafen.Controllers
         static bool succesfull = false;
         static bool CorreoDuplicado = false;
         static bool Duplicado = false;
-        static string cadena = "workstation id=KafenData.mssql.somee.com;packet size=4096;user id=Kafen_SQLLogin_1;pwd=u1nxeltc55;data source=KafenData.mssql.somee.com;persist security info=False;initial catalog=KafenData";
+        static string cadena = "Server=localhost\\SQLEXPRESS;Database=KafenData;Trusted_Connection=True;";
         public IActionResult Index()
         {
             if (Menor)
@@ -196,7 +196,7 @@ namespace Kafen.Controllers
                 Cliente = a.Cliente.Nombre,
                 ApMaterno = a.Cliente.Apellido_Materno,
                 ApPaterno = a.Cliente.Apellido_Paterno,
-                Total = a.Total,
+                Total = (int)a.Total,
                 Estatus = a.Estatus.descripcion,
                 Fecha = a.Fecha.ToString("d")
 
@@ -219,7 +219,7 @@ namespace Kafen.Controllers
                 IdPedido = a.Id,
                 Producto = a.IdProducto.Nombre,
                 Cantidad = a.Cantidad,
-                Precio = a.Precio
+                Precio = (int)a.Precio
 
 
 
