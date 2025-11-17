@@ -1,4 +1,4 @@
-﻿using Kafen.Dominio.dominio;
+using Kafen.Dominio.dominio;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,9 +16,9 @@ namespace Kafen.Dominio
         public Pedido IdPedido { get; set; }
         public Articulo IdProducto { get; set; }
         public int Cantidad { get; set; }
-        public int Precio { get; set; }
+        public decimal Precio { get; set; }
 
-        public void Actualizar(Pedido pedido, Articulo articulo, int cantidad, int precio)
+        public void Actualizar(Pedido pedido, Articulo articulo, int cantidad, decimal precio)
         {
             IdPedido = pedido;
             IdProducto = articulo;
@@ -27,7 +27,7 @@ namespace Kafen.Dominio
 
         }
 
-        public static DetalleVenta Crear(Guid id, Pedido idpedido, Articulo idproducto, int cantidad, int precio)
+        public static DetalleVenta Crear(Guid id, Pedido idpedido, Articulo idproducto, int cantidad, decimal precio)
         {
             DetalleVenta detalle = new DetalleVenta(id);
             detalle.Actualizar(idpedido, idproducto, cantidad, precio);
