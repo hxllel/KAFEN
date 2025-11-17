@@ -1,4 +1,4 @@
-﻿using Kafen.Dominio.dominio;
+using Kafen.Dominio.dominio;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,7 +14,7 @@ namespace Kafen.Dominio
             Id = id;
         }
         public Usuario Cliente { get; protected set; }
-        public int Total { get; protected set; }
+        public decimal Total { get; protected set; }
         public Estatus Estatus { get; protected set; }
 
         public DateTime Fecha { get; protected set; }
@@ -27,7 +27,7 @@ namespace Kafen.Dominio
             pedido.Actualizar(cliente, total, estatus, fecha);
             return pedido;
         }
-        public void Actualizar(Usuario cliente, int total, Estatus estatus, DateTime fecha)
+        public void Actualizar(Usuario cliente, decimal total, Estatus estatus, DateTime fecha)
         {
 
             Cliente = cliente;
