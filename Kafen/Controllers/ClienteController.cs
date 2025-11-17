@@ -1,4 +1,4 @@
-﻿using Kafen.Datos;
+using Kafen.Datos;
 using Kafen.Datos.Repositorios;
 using Kafen.Dominio;
 using Kafen.Models;
@@ -25,7 +25,7 @@ namespace Kafen.Controllers
         static bool noagregado = false;
         static bool Pedido = false;
         static bool carritovacio = false;
-        static string cadena = "workstation id=KafenData.mssql.somee.com;packet size=4096;user id=Kafen_SQLLogin_1;pwd=u1nxeltc55;data source=KafenData.mssql.somee.com;persist security info=False;initial catalog=KafenData";
+        static string cadena = "Server=localhost\\SQLEXPRESS;Database=KafenData;Trusted_Connection=True;";
         static public int idusuario = 0;
         private readonly IRepositorioArticulo _repositorioArticulo;
         private readonly IRepositorioCategoria _repositorioCategoria;
@@ -189,7 +189,7 @@ namespace Kafen.Controllers
                 Id = a.Id,
                 Producto = a.IdArticulo.Nombre,
                 Descripcion = a.IdArticulo.Descripcion,
-                Precio = a.IdArticulo.Precio,
+                Precio = (int)a.IdArticulo.Precio,
                 Cantidad = a.Cantidad
 
 
@@ -262,38 +262,41 @@ namespace Kafen.Controllers
 
             int cantidad = 0;
             int productos = 0;
-            string articulo;
+            Guid articulo;
             int numero = 0;
             int multi = 0;
+
             using (SqlConnection cn = new SqlConnection(cadena))
             {
-                SqlCommand cmd = new SqlCommand("select sum(ar.Precio*ca.Cantidad) from Carrito ca Join Articulos ar on ca.IdArticuloId = ar.Id where IdUsuarioId = @idusuario", cn);
+                SqlCommand cmd = new SqlCommand(
+                    "select sum(ar.Precio*ca.Cantidad) from Carrito ca Join Articulos ar on ca.IdArticuloId = ar.Id where IdUsuarioId = @idusuario",
+                    cn
+                );
                 cmd.Parameters.AddWithValue("@idusuario", idusuario);
-                cmd.CommandType = CommandType.Text;
                 cn.Open();
-                SqlDataReader Rleido;
-                Rleido = cmd.ExecuteReader();
-                int filas = Convert.ToInt32(Rleido.HasRows);
+
+                SqlDataReader Rleido = cmd.ExecuteReader();
+
                 try
                 {
-                    if (Rleido.Read())
+                    if (Rleido.Read() && !Rleido.IsDBNull(0))
                     {
                         cantidad = Convert.ToInt32(Rleido[0]);
+                    }
+                    else
+                    {
+                        carritovacio = true;
+                        return RedirectToAction("Tienda", "Cliente");
                     }
                 }
                 catch (InvalidCastException)
                 {
                     carritovacio = true;
                     return RedirectToAction("Tienda", "Cliente");
-
                 }
-
-
-
             }
 
             var pedido = new Pedido(Guid.NewGuid());
-
             var estatus = _repositorioEstatus.BuscarporId(1);
             var usuario = _repositorioUsuario.BuscarporId(idusuario);
             var Fecha = DateTime.Today;
@@ -302,92 +305,89 @@ namespace Kafen.Controllers
             pedido.Actualizar(usuario, Total, estatus, Fecha);
             _repositorioPedidos.Agregar(pedido);
 
-
             using (SqlConnection cm = new SqlConnection(cadena))
             {
-                SqlCommand cnd = new SqlCommand("select count (Id) from carrito where IdUsuarioId = @idusuario", cm);
+                SqlCommand cnd = new SqlCommand(
+                    "select count(Id) from carrito where IdUsuarioId = @idusuario",
+                    cm
+                );
                 cnd.Parameters.AddWithValue("@idusuario", idusuario);
-                cnd.CommandType = CommandType.Text;
                 cm.Open();
-                SqlDataReader Rleido;
-                Rleido = cnd.ExecuteReader();
-                int filas = Convert.ToInt32(Rleido.HasRows);
+
+                SqlDataReader Rleido = cnd.ExecuteReader();
                 if (Rleido.Read())
                 {
                     productos = Convert.ToInt32(Rleido[0]);
                 }
-
             }
 
             for (int i = 0; i < productos; i++)
             {
                 using (SqlConnection cm = new SqlConnection(cadena))
                 {
-                    SqlCommand cnd = new SqlCommand("select * from Carrito where IdUsuarioId = @idusuario", cm);
+                    SqlCommand cnd = new SqlCommand(
+                        "select * from Carrito where IdUsuarioId = @idusuario",
+                        cm
+                    );
                     cnd.Parameters.AddWithValue("@idusuario", idusuario);
-                    cnd.CommandType = CommandType.Text;
                     cm.Open();
-                    SqlDataReader Rleido;
-                    Rleido = cnd.ExecuteReader();
-                    int filas = Convert.ToInt32(Rleido.HasRows);
+
+                    SqlDataReader Rleido = cnd.ExecuteReader();
                     if (Rleido.Read())
                     {
-                        articulo = Convert.ToString(Rleido[1]);
+                        // ✔ CORREGIDO → ahora obtenemos un GUID real
+                        articulo = Rleido.GetGuid(2);
 
                         numero = Convert.ToInt32(Rleido[3]);
-
                         using (SqlConnection jc = new SqlConnection(cadena))
                         {
-                            SqlCommand cj = new SqlCommand("select ar.Precio*ca.Cantidad from Carrito ca Join Articulos ar on ca.IdArticuloId = ar.Id where IdUsuarioId = @idusuario", jc);
+                            SqlCommand cj = new SqlCommand(
+                                "select ar.Precio*ca.Cantidad from Carrito ca Join Articulos ar on ca.IdArticuloId = ar.Id where IdUsuarioId = @idusuario",
+                                jc
+                            );
                             cj.Parameters.AddWithValue("@idusuario", idusuario);
-                            cj.CommandType = CommandType.Text;
+
                             jc.Open();
-                            SqlDataReader rleido;
-                            rleido = cj.ExecuteReader();
-                            int filas2 = Convert.ToInt32(rleido.HasRows);
+                            SqlDataReader rleido = cj.ExecuteReader();
+
                             if (rleido.Read())
                             {
                                 multi = Convert.ToInt32(rleido[0]);
 
-
                                 var idetalle = new DetalleVenta(Guid.NewGuid());
                                 var NUMERO = numero;
-                                // var PEDIDO = _repositorioPedidos.BuscarporId(Guid.Parse(pedido.ToString()));
                                 var MULTI = multi;
-                                var idarticulo = _repositorioArticulo.BuscarporId(Guid.Parse(articulo));
 
+                                // ✔ CORREGIDO: usamos el GUID directamente
+                                var idarticulo = _repositorioArticulo.BuscarporId(articulo);
 
                                 idetalle.Actualizar(pedido, idarticulo, NUMERO, MULTI);
-
                                 _repositorioDetalleVenta.Agregar(idetalle);
-
-
 
                                 using (SqlConnection ky = new SqlConnection(cadena))
                                 {
-                                    SqlCommand em = new SqlCommand("delete Carrito where IdUsuarioId = @id and IdArticuloId = @idarticulo  ", ky);
+                                    SqlCommand em = new SqlCommand(
+                                        "delete Carrito where IdUsuarioId = @id and IdArticuloId = @idarticulo",
+                                        ky
+                                    );
                                     em.Parameters.AddWithValue("@id", idusuario);
-                                    em.Parameters.AddWithValue("@idarticulo", articulo);
-                                    em.CommandType = CommandType.Text;
+
+                                    // ✔ CORREGIDO: ya es GUID, no string
+                                    em.Parameters.AddWithValue("@idarticulo", idarticulo.Id);
+
                                     ky.Open();
                                     em.ExecuteNonQuery();
-
-                                    ky.Close();
-
                                 }
                             }
-
-
                         }
                     }
-
                 }
             }
+
             Pedido = true;
-
             return RedirectToAction("Tienda", "Cliente");
-
         }
+
 
 
         public IActionResult PedidosEnCurso()
@@ -409,7 +409,7 @@ namespace Kafen.Controllers
             {
 
                 id = a.Id,
-                Total = a.Total,
+                Total = (int)a.Total,
                 Estatus = a.Estatus.descripcion,
                 Fecha = a.Fecha.ToString("d")
 
@@ -428,7 +428,7 @@ namespace Kafen.Controllers
                 IdPedido = a.Id,
                 Producto = a.IdProducto.Nombre,
                 Cantidad = a.Cantidad,
-                Precio = a.Precio
+                Precio = (int)a.Precio
 
 
 
@@ -476,7 +476,7 @@ namespace Kafen.Controllers
             {
 
                 id = a.Id,
-                Total = a.Total,
+                Total = (int)a.Total,
                 Estatus = a.Estatus.descripcion,
                 Fecha = a.Fecha.ToString("d")
 
