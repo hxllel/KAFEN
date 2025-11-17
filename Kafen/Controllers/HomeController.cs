@@ -1,4 +1,4 @@
-﻿using Kafen.Models;
+using Kafen.Models;
 using Kafen.Transversal;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Routing;
@@ -46,7 +46,7 @@ namespace Kafen.Controllers
         public static bool CambioContra = false;
         static bool tokenulo = false;
 
-        static string cadena = "workstation id=KafenData.mssql.somee.com;packet size=4096;user id=Kafen_SQLLogin_1;pwd=u1nxeltc55;data source=KafenData.mssql.somee.com;persist security info=False;initial catalog=KafenData";
+        static string cadena = "Server=localhost\\SQLEXPRESS;Database=KafenData;Trusted_Connection=True;";
 
         public IActionResult Index(bool registrado = false)
         {
